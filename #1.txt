@@ -1,0 +1,15 @@
+Started by user byneedichanti
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in C:\ProgramData\Jenkins\.jenkins\workspace\pipelines.code
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (Hello)
+[Pipeline] echo
+Hello anji
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
